@@ -4,6 +4,10 @@ This is a freelance developer portfolio website built using **HTML 5**, **CSS 3*
 
 ![plot](https://github.com/BobsProgrammingAcademy/portfolio-website-bootstrap-5/blob/master/images/theme.png?raw=true)
 
+## Table of Contents 
+- [Prerequisites](#prerequisites)
+- [Running the application](#run-the-application)
+- [Copyright and License](#copyright-and-license)
 
 ## Prerequisites
 
