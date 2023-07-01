@@ -13,9 +13,9 @@ This is a freelance developer portfolio website built using **HTML 5**, **CSS 3*
 
 Install the following prerequisites:
 
-1. [Visual Studio Code](https://code.visualstudio.com/download) with the **Live Server** extension.
-* **Live Server** allows us to launch a local development server that enables a live reload of our project.
+* [Visual Studio Code](https://code.visualstudio.com/download) with the **Live Server** extension.
 
+**Live Server** allows us to launch a local development server that enables a live reload of our project.
 
 ## Run the application
 
