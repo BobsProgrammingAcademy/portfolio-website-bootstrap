@@ -13,7 +13,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v4
+    - name: Checkout source Git branch
+      uses: actions/checkout@v4
+        
     - name: Build the site in the jekyll/builder container
       run: |
         docker run \
